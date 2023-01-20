@@ -1,0 +1,6 @@
+Duplicate #1:
+C:\id_duplicate_pics\Photos\CIRAstock2020-215 - Copy.jpg  and  C:\id_duplicate_pics\Photos\CIRAstock2020-215.jpg
+Full Windows query:
+("C:\id_duplicate_pics\Photos\CIRAstock2020-215 - Copy.jpg" AND "*.jpg") OR ("C:\id_duplicate_pics\Photos\CIRAstock2020-215.jpg"  "*.jpg")
+Relative Windows query (much faster to use), from C:\id_duplicate_pics\Photos : 
+("\CIRAstock2020-215 - Copy.jpg" AND "*.jpg") OR ("\CIRAstock2020-215.jpg"  "*.jpg")
